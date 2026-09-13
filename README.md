@@ -1,3 +1,6 @@
+<img width="256" height="256" alt="logo" src="https://github.com/user-attachments/assets/c94a4e39-0706-4f24-8c1a-25cfc7fc58e6" />
+
+
 # MKonnect
 Account synchronization tool for WiiCompiled
 ## HOW TO USE
@@ -8,19 +11,24 @@ Account synchronization tool for WiiCompiled
 ## COMMANDS
 
 **List licenses:**
-  mkonnect.exe licenses rksys.dat
+  
+    mkonnect.exe licenses rksys.dat
 
 **Inspect a license:**
-  mkonnect.exe inspect rksys.dat --license 1
+  
+    mkonnect.exe inspect rksys.dat --license 1
 
 **Export:**
-  mkonnect.exe export rksys.dat profile.json --license 1
+  
+    mkonnect.exe export rksys.dat profile.json --license 1
 
 **Import:**
-  mkonnect.exe import rksys.dat profile.json --license 1
+  
+    mkonnect.exe import rksys.dat profile.json --license 1
 
 **Clone:**
-  mkonnect.exe clone source.dat target.dat --source-license 1 --target-license 1
+  
+    mkonnect.exe clone source.dat target.dat --source-license 1 --target-license 1
 
 ## How to use the same profile on multiple devices ?
 
