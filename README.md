@@ -1,4 +1,6 @@
-# V2.0.0 COMING SOON
+# MKonnect v2.0 is out !
+[![MKonnect v2.0 - Official Trailer](https://github.com/user-attachments/assets/93c20d90-c246-4c26-bfd1-75bff430cb9e)](https://youtu.be/4Qju5RLwp6Q)
+
 
 <img width="256" height="256" alt="logo" src="https://github.com/user-attachments/assets/c94a4e39-0706-4f24-8c1a-25cfc7fc58e6" />
 
